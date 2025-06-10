@@ -9,7 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phcnguyen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phcnguyen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=phcnguyen&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
