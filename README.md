@@ -18,11 +18,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=phcnguyen&show_icons=true&count_private=true&hide_border=true&title_color=00d2ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117&ring_color=00d2ff&rank_icon=github" alt="Kai's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcnguyen&layout=compact&hide_border=true&title_color=00d2ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
-</div>
-
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=phcnguyen&theme=radical&hide_border=true&background=0d1117&stroke=00d2ff&ring=7928ca&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
 </div>
 
