@@ -14,21 +14,6 @@
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=phcnguyen&theme=radical&hide_border=true&background=0d1117&stroke=00d2ff&ring=7928ca&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phcnguyen&bg_color=0d1117&color=00d2ff&line=7928ca&point=00d2ff&area_color=7928ca&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
 <!-- SNAKE ANIMATION -->
 <div align="center">
   <h3>🐍 Watch my contributions get eaten!</h3>
