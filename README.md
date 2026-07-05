@@ -6,8 +6,6 @@
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-nguyen256xx@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taidt3004@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/phcnguyen?style=for-the-badge&logo=github&color=0d1117&labelColor=1a1b27)](https://github.com/phcnguyen)
 ![Profile Views](https://komarev.com/ghpvc/?username=phcnguyen&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS)
 
 </div>
