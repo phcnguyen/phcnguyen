@@ -6,8 +6,10 @@
 ---
 
 <!-- SNAKE ANIMATION -->
+
+## 🐍 Contribution Animation
+
 <div align="center">
-  <h3>🐍 Watch my contributions get eaten!</h3>
   <br/>
   <img src="https://raw.githubusercontent.com/phcnguyen/phcnguyen/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
